@@ -1,0 +1,4 @@
+Resistor,20,100,ohm
+Transistor,0,210,null
+Resistor,1000,100000,ohm
+Capacitor,20,100,c
